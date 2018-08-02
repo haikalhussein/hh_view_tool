@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-HHViewTool::Renderer.copyright 'HH', 'All rights reserved.'
+HhViewTool::Renderer.copyright 'HH', 'All rights reserved.'
 ```
 ## Development
 
